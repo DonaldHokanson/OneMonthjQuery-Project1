@@ -1,0 +1,44 @@
+body{
+	background-color: #34495e;
+}
+
+.container {
+	margin: auto;
+	width: 1215px;
+	color: #3b3b3b;
+	text-align: center;
+}
+
+header {
+	margin: 50px 0;
+}
+
+span, h1{
+	color: #eee;
+}
+
+span {
+	font-size: 24px;
+	font-style: italic;
+	font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+h1 {
+	font-size: 44px;
+	margin-top: 10px;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.thumbnail{
+	display: inline-block;
+	padding: 10px;
+}
+
+
+img{
+	box-shadow: 10px 10px 20px rgba(0,0,0,0.6);
+}
+
+img:hover{
+	box-shadow: 10px 10px 20px rgba(0,0,0,1);
+}

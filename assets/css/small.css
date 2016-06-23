@@ -1,0 +1,12 @@
+.container{
+	width: 100%;
+}
+
+.thumbnail{
+	display: block;
+}
+
+.thumbnail img{
+	box-shadow: none;
+	width: 100%;
+}
